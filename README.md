@@ -37,5 +37,10 @@ This end-to-end machine learning project focuses on classifying food images usin
 - **Programming Language**: Python  
 - **Deep Learning Framework**: TensorFlow/Keras  
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, OpenCV  
-- **Model Architecture**: ResNet50  
+- **Model Architecture**: ResNet50
+
+---
+
+# Explore the dataset on Kaggle 🌐 [View Dataset ](https://www.kaggle.com/dansbecker/food-101)
+
 
